@@ -1,0 +1,4 @@
+require "./solution"
+
+
+announce
